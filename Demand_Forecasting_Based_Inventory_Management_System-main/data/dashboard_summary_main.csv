@@ -1,0 +1,131 @@
+ProductId,RemainingStock,NextMonthForecast,BestModel,Status,CategoryName,CategoryId
+265,1708.0,8.47,LSTM (Weekly),Aşırı Stok,Gıda,1.0
+178,0.0,4.41,LSTM (Quarterly),Stok Yok,Gıda,1.0
+428,1010.0,6.32,LSTM (Monthly),Aşırı Stok,Gıda,1.0
+1121,192.0,4.55,GRU (Weekly),Aşırı Stok,Gıda,1.0
+859,0.0,5.67,LSTM (Quarterly),Stok Yok,Gıda,1.0
+430,1996.0,6.07,GRU (Monthly),Aşırı Stok,Gıda,1.0
+664,0.0,7.76,GRU (Weekly),Stok Yok,Gıda,1.0
+1275,1447.0,7.84,GRU (Quarterly),Aşırı Stok,Gıda,1.0
+881,46.0,6.94,GRU (Monthly),Aşırı Stok,Gıda,1.0
+393,0.0,6.31,LSTM (Quarterly),Stok Yok,Gıda,1.0
+1979,235.0,5.86,LSTM (Weekly),Aşırı Stok,İçecek,2.0
+2647,396.0,7.07,LSTM (Weekly),Aşırı Stok,İçecek,2.0
+1826,0.0,6.42,GRU (Quarterly),Stok Yok,İçecek,2.0
+2279,1262.0,6.06,LSTM (Weekly),Aşırı Stok,İçecek,2.0
+2390,148.0,6.79,GRU (Weekly),Aşırı Stok,İçecek,2.0
+1959,1864.0,6.67,LSTM (Weekly),Aşırı Stok,İçecek,2.0
+1986,1547.0,5.83,GRU (Monthly),Aşırı Stok,İçecek,2.0
+2380,1680.0,5.92,LSTM (Monthly),Aşırı Stok,İçecek,2.0
+2124,989.0,5.6,GRU (Weekly),Aşırı Stok,İçecek,2.0
+2587,0.0,7.12,GRU (Monthly),Stok Yok,İçecek,2.0
+3516,1022.0,5.68,LSTM (Weekly),Aşırı Stok,Elektronik,3.0
+3733,98.0,6.63,LSTM (Weekly),Aşırı Stok,Elektronik,3.0
+2926,0.0,7.44,LSTM (Weekly),Stok Yok,Elektronik,3.0
+4025,116.0,5.09,LSTM (Monthly),Aşırı Stok,Elektronik,3.0
+4066,1492.0,6.66,GRU (Monthly),Aşırı Stok,Elektronik,3.0
+2776,1121.0,4.22,LSTM (Weekly),Aşırı Stok,Elektronik,3.0
+3785,731.0,6.27,LSTM (Monthly),Aşırı Stok,Elektronik,3.0
+3089,284.0,7.9,GRU (Monthly),Aşırı Stok,Elektronik,3.0
+3902,1261.0,6.86,LSTM (Quarterly),Aşırı Stok,Elektronik,3.0
+3966,787.0,6.64,GRU (Weekly),Aşırı Stok,Elektronik,3.0
+4570,1448.0,5.97,GRU (Weekly),Aşırı Stok,Giyim,4.0
+5334,530.0,6.96,GRU (Monthly),Aşırı Stok,Giyim,4.0
+4471,179.0,6.01,LSTM (Weekly),Aşırı Stok,Giyim,4.0
+4539,1678.0,7.78,GRU (Quarterly),Aşırı Stok,Giyim,4.0
+4536,1506.0,7.87,GRU (Weekly),Aşırı Stok,Giyim,4.0
+4717,0.0,5.79,LSTM (Quarterly),Stok Yok,Giyim,4.0
+4418,1479.0,5.75,LSTM (Monthly),Aşırı Stok,Giyim,4.0
+4794,1186.0,6.78,GRU (Weekly),Aşırı Stok,Giyim,4.0
+4624,0.0,5.88,GRU (Monthly),Stok Yok,Giyim,4.0
+5379,0.0,5.24,GRU (Monthly),Stok Yok,Giyim,4.0
+5739,311.0,6.29,LSTM (Quarterly),Aşırı Stok,Mobilya & Dekorasyon,5.0
+6047,1506.0,6.02,LSTM (Monthly),Aşırı Stok,Mobilya & Dekorasyon,5.0
+5934,350.0,7.0,GRU (Weekly),Aşırı Stok,Mobilya & Dekorasyon,5.0
+5965,597.0,5.94,LSTM (Monthly),Aşırı Stok,Mobilya & Dekorasyon,5.0
+5579,0.0,4.11,LSTM (Quarterly),Stok Yok,Mobilya & Dekorasyon,5.0
+6835,1168.0,5.97,GRU (Weekly),Aşırı Stok,Mobilya & Dekorasyon,5.0
+6780,508.0,6.65,GRU (Monthly),Aşırı Stok,Mobilya & Dekorasyon,5.0
+5642,703.0,7.4,GRU (Monthly),Aşırı Stok,Mobilya & Dekorasyon,5.0
+6033,1756.0,5.35,GRU (Quarterly),Aşırı Stok,Mobilya & Dekorasyon,5.0
+5920,0.0,5.77,GRU (Quarterly),Stok Yok,Mobilya & Dekorasyon,5.0
+7223,0.0,8.8,GRU (Quarterly),Stok Yok,Kişisel Bakım & Kozmetik,6.0
+7467,1240.0,6.59,LSTM (Quarterly),Aşırı Stok,Kişisel Bakım & Kozmetik,6.0
+7686,820.0,11.15,GRU (Weekly),Aşırı Stok,Kişisel Bakım & Kozmetik,6.0
+8258,1576.0,7.54,GRU (Monthly),Aşırı Stok,Kişisel Bakım & Kozmetik,6.0
+7547,300.0,4.48,LSTM (Weekly),Aşırı Stok,Kişisel Bakım & Kozmetik,6.0
+7803,1498.0,7.67,LSTM (Monthly),Aşırı Stok,Kişisel Bakım & Kozmetik,6.0
+7123,400.0,5.89,LSTM (Monthly),Aşırı Stok,Kişisel Bakım & Kozmetik,6.0
+7636,1483.0,8.16,LSTM (Weekly),Aşırı Stok,Kişisel Bakım & Kozmetik,6.0
+7066,470.0,5.76,GRU (Monthly),Aşırı Stok,Kişisel Bakım & Kozmetik,6.0
+7171,0.0,7.08,GRU (Quarterly),Stok Yok,Kişisel Bakım & Kozmetik,6.0
+8719,0.0,9.03,GRU (Weekly),Stok Yok,Otomotiv & Araç Bakım,7.0
+8800,0.0,5.42,GRU (Monthly),Stok Yok,Otomotiv & Araç Bakım,7.0
+9671,581.0,6.85,GRU (Weekly),Aşırı Stok,Otomotiv & Araç Bakım,7.0
+9065,1764.0,7.26,GRU (Weekly),Aşırı Stok,Otomotiv & Araç Bakım,7.0
+8758,707.0,6.46,LSTM (Weekly),Aşırı Stok,Otomotiv & Araç Bakım,7.0
+9375,0.0,6.37,GRU (Quarterly),Stok Yok,Otomotiv & Araç Bakım,7.0
+8728,1625.0,6.36,LSTM (Quarterly),Aşırı Stok,Otomotiv & Araç Bakım,7.0
+8575,329.0,7.25,GRU (Monthly),Aşırı Stok,Otomotiv & Araç Bakım,7.0
+9345,271.0,-3.66,GRU (Weekly),Aşırı Stok,Otomotiv & Araç Bakım,7.0
+8358,14.0,6.37,LSTM (Weekly),Stok Yeterli,Otomotiv & Araç Bakım,7.0
+10063,169.0,6.34,GRU (Weekly),Aşırı Stok,Kamp & Outdoor,8.0
+10869,1048.0,6.87,LSTM (Quarterly),Aşırı Stok,Kamp & Outdoor,8.0
+10862,0.0,7.01,LSTM (Monthly),Stok Yok,Kamp & Outdoor,8.0
+10585,0.0,6.82,LSTM (Monthly),Stok Yok,Kamp & Outdoor,8.0
+10023,824.0,5.88,LSTM (Weekly),Aşırı Stok,Kamp & Outdoor,8.0
+10122,0.0,7.42,LSTM (Monthly),Stok Yok,Kamp & Outdoor,8.0
+10150,58.0,5.43,GRU (Weekly),Aşırı Stok,Kamp & Outdoor,8.0
+10388,0.0,7.18,GRU (Monthly),Stok Yok,Kamp & Outdoor,8.0
+10450,0.0,5.17,GRU (Weekly),Stok Yok,Kamp & Outdoor,8.0
+10273,476.0,10.95,GRU (Weekly),Aşırı Stok,Kamp & Outdoor,8.0
+12102,994.0,6.38,LSTM (Monthly),Aşırı Stok,Evcil Hayvan,9.0
+12153,1979.0,8.49,GRU (Quarterly),Aşırı Stok,Evcil Hayvan,9.0
+11903,403.0,8.28,LSTM (Monthly),Aşırı Stok,Evcil Hayvan,9.0
+11672,1409.0,7.23,LSTM (Quarterly),Aşırı Stok,Evcil Hayvan,9.0
+11199,0.0,6.1,LSTM (Quarterly),Stok Yok,Evcil Hayvan,9.0
+11299,0.0,9.68,GRU (Weekly),Stok Yok,Evcil Hayvan,9.0
+11114,1458.0,5.55,LSTM (Weekly),Aşırı Stok,Evcil Hayvan,9.0
+11562,0.0,4.32,LSTM (Quarterly),Stok Yok,Evcil Hayvan,9.0
+12146,0.0,7.28,GRU (Monthly),Stok Yok,Evcil Hayvan,9.0
+11650,235.0,6.1,GRU (Quarterly),Aşırı Stok,Evcil Hayvan,9.0
+12783,603.0,5.53,LSTM (Quarterly),Aşırı Stok,Kafe & Pastane,10.0
+12998,0.0,3.39,LSTM (Weekly),Stok Yok,Kafe & Pastane,10.0
+12592,830.0,8.17,GRU (Quarterly),Aşırı Stok,Kafe & Pastane,10.0
+13790,838.0,6.34,GRU (Weekly),Aşırı Stok,Kafe & Pastane,10.0
+12583,1390.0,6.73,GRU (Weekly),Aşırı Stok,Kafe & Pastane,10.0
+13316,1468.0,5.76,LSTM (Weekly),Aşırı Stok,Kafe & Pastane,10.0
+13399,0.0,3.74,LSTM (Quarterly),Stok Yok,Kafe & Pastane,10.0
+12866,1883.0,8.13,LSTM (Weekly),Aşırı Stok,Kafe & Pastane,10.0
+13094,1206.0,4.09,GRU (Weekly),Aşırı Stok,Kafe & Pastane,10.0
+13148,274.0,5.27,GRU (Weekly),Aşırı Stok,Kafe & Pastane,10.0
+14759,1134.0,7.63,GRU (Quarterly),Aşırı Stok,Kırtasiye & Ofis,11.0
+15021,426.0,7.8,GRU (Monthly),Aşırı Stok,Kırtasiye & Ofis,11.0
+14046,0.0,7.21,GRU (Monthly),Stok Yok,Kırtasiye & Ofis,11.0
+14335,554.0,8.23,GRU (Quarterly),Aşırı Stok,Kırtasiye & Ofis,11.0
+14208,0.0,7.32,GRU (Weekly),Stok Yok,Kırtasiye & Ofis,11.0
+14994,0.0,2.11,LSTM (Weekly),Stok Yok,Kırtasiye & Ofis,11.0
+13874,1441.0,4.71,GRU (Weekly),Aşırı Stok,Kırtasiye & Ofis,11.0
+15224,1132.0,8.53,GRU (Weekly),Aşırı Stok,Kırtasiye & Ofis,11.0
+14260,842.0,6.77,GRU (Weekly),Aşırı Stok,Kırtasiye & Ofis,11.0
+14923,0.0,7.89,GRU (Monthly),Stok Yok,Kırtasiye & Ofis,11.0
+15856,0.0,7.3,LSTM (Weekly),Stok Yok,Oyuncak & Hobi,12.0
+16366,975.0,8.05,GRU (Monthly),Aşırı Stok,Oyuncak & Hobi,12.0
+15901,1893.0,5.68,LSTM (Quarterly),Aşırı Stok,Oyuncak & Hobi,12.0
+15301,665.0,6.9,GRU (Monthly),Aşırı Stok,Oyuncak & Hobi,12.0
+15718,811.0,6.14,LSTM (Quarterly),Aşırı Stok,Oyuncak & Hobi,12.0
+15337,0.0,6.07,GRU (Monthly),Stok Yok,Oyuncak & Hobi,12.0
+15745,1276.0,7.67,GRU (Quarterly),Aşırı Stok,Oyuncak & Hobi,12.0
+15336,0.0,5.26,LSTM (Weekly),Stok Yok,Oyuncak & Hobi,12.0
+16577,0.0,7.92,GRU (Weekly),Stok Yok,Oyuncak & Hobi,12.0
+16573,1754.0,7.27,GRU (Weekly),Aşırı Stok,Oyuncak & Hobi,12.0
+16664,1474.0,10.62,LSTM (Weekly),Aşırı Stok,Bahçe & Dış Mekan,13.0
+17698,0.0,6.34,LSTM (Monthly),Stok Yok,Bahçe & Dış Mekan,13.0
+17137,1662.0,6.23,LSTM (Monthly),Aşırı Stok,Bahçe & Dış Mekan,13.0
+16822,340.0,7.84,GRU (Monthly),Aşırı Stok,Bahçe & Dış Mekan,13.0
+17151,0.0,4.33,LSTM (Quarterly),Stok Yok,Bahçe & Dış Mekan,13.0
+17511,0.0,6.96,GRU (Monthly),Stok Yok,Bahçe & Dış Mekan,13.0
+17763,0.0,6.32,LSTM (Weekly),Stok Yok,Bahçe & Dış Mekan,13.0
+16992,323.0,6.48,LSTM (Monthly),Aşırı Stok,Bahçe & Dış Mekan,13.0
+17759,1487.0,6.5,GRU (Weekly),Aşırı Stok,Bahçe & Dış Mekan,13.0
+16848,1538.0,5.41,LSTM (Weekly),Aşırı Stok,Bahçe & Dış Mekan,13.0
